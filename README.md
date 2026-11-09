@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Choi (Cyan-afk)
+# 🚀 Hi, I'm Choi
 
 **Mechanical Engineer & Full-Stack Developer.** 
 I build open-source Web CAE & CAD tools bridging the gap between heavy engineering simulation and modern web tech.
