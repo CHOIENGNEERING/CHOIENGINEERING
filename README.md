@@ -11,8 +11,7 @@ I build open-source Web CAE & CAD tools bridging the gap between heavy engineeri
 ![AI](https://img.shields.io/badge/AI-Agent-green?style=for-the-badge)
 
 ### 📦 Featured Projects
-*   🌐 **[Web-STEP-Aligner](https://github.com/Cyan-afk/web-step-aligner)** - A lightweight web tool to align, rotate, and scale STEP files without CAD software. (Open Source)
-*   🧠 **[Cyber CAE](https://github.com/Cyan-afk)** - AI-driven cloud FEA analysis system (In development).
+*   🌐 **[Web-STEP-Aligner](https://github.com/CHOIENGNEERING/web-step-aligner)** - A lightweight web tool to align, rotate, and scale STEP files without CAD software. (Open Source)
 
 ### 📫 Contact
 - 📧 Email: `your-email@example.com`
