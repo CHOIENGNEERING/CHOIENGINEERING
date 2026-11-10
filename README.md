@@ -14,5 +14,5 @@ I build open-source Web CAE & CAD tools bridging the gap between heavy engineeri
 *   🌐 **[Web-STEP-Aligner](https://github.com/CHOIENGNEERING/web-step-aligner)** - A lightweight web tool to align, rotate, and scale STEP files without CAD software. (Open Source)
 
 ### 📫 Contact
-- 📧 Email: `your-email@example.com`
+- 📧 Email: `cyu409215@gmail.com`
 - 📍 Location: Malaysia
